@@ -1,7 +1,6 @@
 import { useEffect, useState } from "react";
 import toast, { Toaster } from "react-hot-toast";
 
-import "./App.css";
 import Card from "./components/Card";
 
 function App() {
